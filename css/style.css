@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body{
+    background-color: rgb(221, 109, 255);
+    font-family: "Dancing Script", cursive;
+    font-size: 20px;
+}
+h1,h3 {
+font-family: "Lobster", sans-serif;
+}
